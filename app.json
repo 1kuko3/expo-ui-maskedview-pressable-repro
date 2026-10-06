@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "expo-ui-maskedview-pressable-repro",
+    "slug": "expo-ui-maskedview-pressable-repro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example.expouimaskedviewrepro"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "package": "com.example.expouimaskedviewrepro"
+    }
+  }
+}
